@@ -11,7 +11,7 @@ nhlModelGen.m — function that generates the SVM model, used in nhlSalaryPredic
 
 prepro.m — function that does the preprocessing on the first dataset, used in nhlSalaryPrediction.m
 
-* other files will be generated as these scripts are run *
+*other files will be generated as these scripts are run*
 
 ### Steps to Run
 
